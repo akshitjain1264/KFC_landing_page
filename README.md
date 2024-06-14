@@ -6,7 +6,7 @@ This project is a clone of the KFC landing page implemented using HTML, CSS, and
 
 - HTML
 - CSS
-- JavaScript (optional, if used)
+- JavaScript
 
 ## Live preview
 
